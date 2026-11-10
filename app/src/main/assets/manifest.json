@@ -1,0 +1,16 @@
+{
+  "name": "Galaxy Striker - Space Shooter",
+  "short_name": "GalaxyStriker",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050510",
+  "theme_color": "#00f0ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "space_shooter_icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
